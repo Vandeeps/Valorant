@@ -29,7 +29,7 @@ function selectAbility(ability) {
                     Agent List
                 </v-btn>
             </div>
-            <h1 class="text-center mt-10 text-md-left">Agent - {{ agent?.data.displayName }}</h1>
+            <h1 class="text-center mt-10 text-md-leftde">Agent - {{ agent?.data.displayName }}</h1>
             <v-row v-if="agent?.data" class="pa-4">
                 <v-col v-if="$vuetify.display.mdAndUp" md="4">
                     <v-img :src="agent.data.background" />
