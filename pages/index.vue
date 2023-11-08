@@ -17,7 +17,7 @@
                     <v-col>
                         <menu-card icon="mdi-alpha-v-box" title="Valorant API" text="Berisi Penggunaan Valorant API"
                             @click="navigateTo('/agent')" />
-                        />
+
 
                     </v-col>
                 </v-row>
