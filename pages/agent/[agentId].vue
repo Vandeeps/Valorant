@@ -74,8 +74,5 @@ function selectAbility(ability) {
             </v-row>
         </v-img>
     </v-theme-provider>
-    <pre>
-        {{ agent?.data }}
-    </pre>
 </template>
 
